@@ -1,0 +1,10 @@
+
+https://blog.csdn.net/weixin_43431218/article/details/135680283?ops_request_misc=&request_id=&biz_id=102&utm_term=loss%20%E5%87%BD%E6%95%B0%E7%9A%84%E6%8B%9F%E5%90%88%E6%95%88%E6%9E%9C&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-135680283.142^v102^control&spm=1018.2226.3001.4187
+如何使用loss曲线诊断机器学习模型性能
+
+拟合
+
+过拟合
+
+欠拟合
+
